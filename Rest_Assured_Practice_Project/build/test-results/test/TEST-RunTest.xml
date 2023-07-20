@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RunTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-18T09:48:39" hostname="AR" time="5.158">
+<testsuite name="RunTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-07-20T05:31:48" hostname="AR" time="8.566">
   <properties/>
-  <testcase name="login()" classname="RunTest" time="5.158"/>
+  <testcase name="login()" classname="RunTest" time="5.459"/>
+  <testcase name="delBooking()" classname="RunTest" time="1.549"/>
+  <testcase name="newBooking()" classname="RunTest" time="1.554"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

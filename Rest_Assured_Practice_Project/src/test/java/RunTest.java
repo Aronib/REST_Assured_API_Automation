@@ -9,4 +9,20 @@ public class RunTest {
         booking booking=new booking();
         booking.callingLoginAPI();
     }
+
+    /*@Test()
+    public void bookingLST() throws ConfigurationException, IOException {
+        booking booking=new booking();
+        booking.bookingList();
+    }*/
+    @Test()
+    public void newBooking() throws ConfigurationException, IOException {
+        booking booking=new booking();
+        booking.createBooking();
+    }
+    @Test()
+    public void delBooking() throws ConfigurationException, IOException {
+        booking booking=new booking();
+        booking.deleteBooking();
+    }
 }
