@@ -8,7 +8,7 @@ How to run the project:
 OR
 
 5. For gradle open the terminal and use the following command.
-gradle clean test
+"gradle clean test"
 
 
 
